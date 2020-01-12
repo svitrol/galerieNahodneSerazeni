@@ -1,0 +1,33 @@
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.csprojResolveAssemblyReference.cache
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.Form1.resources
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.Properties.Resources.resources
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.csproj.GenerateResource.Cache
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.csproj.CoreCompileInputs.cache
+G:\prv\03. Vyjimky\galerie\galerie\bin\Debug\galerie.exe.config
+G:\prv\03. Vyjimky\galerie\galerie\bin\Debug\galerie.exe
+G:\prv\03. Vyjimky\galerie\galerie\bin\Debug\galerie.pdb
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.exe
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.pdb
+G:\prv\03. Vyjimky\galerie\galerie\obj\Debug\galerie.Form2.resources
+U:\galerie\galerie\obj\Debug\galerie.csprojResolveAssemblyReference.cache
+U:\galerie\galerie\obj\Debug\galerie.Form1.resources
+U:\galerie\galerie\obj\Debug\galerie.Form2.resources
+U:\galerie\galerie\obj\Debug\galerie.Properties.Resources.resources
+U:\galerie\galerie\obj\Debug\galerie.csproj.GenerateResource.Cache
+U:\galerie\galerie\obj\Debug\galerie.csproj.CoreCompileInputs.cache
+U:\galerie\galerie\obj\Debug\galerie.exe
+U:\galerie\galerie\obj\Debug\galerie.pdb
+U:\galerie\galerie\bin\Debug\galerie.exe.config
+U:\galerie\galerie\bin\Debug\galerie.exe
+U:\galerie\galerie\bin\Debug\galerie.pdb
+F:\galerie\galerie\bin\Debug\galerie.exe.config
+F:\galerie\galerie\bin\Debug\galerie.exe
+F:\galerie\galerie\bin\Debug\galerie.pdb
+F:\galerie\galerie\obj\Debug\galerie.csprojAssemblyReference.cache
+F:\galerie\galerie\obj\Debug\galerie.Form1.resources
+F:\galerie\galerie\obj\Debug\galerie.Form2.resources
+F:\galerie\galerie\obj\Debug\galerie.Properties.Resources.resources
+F:\galerie\galerie\obj\Debug\galerie.csproj.GenerateResource.cache
+F:\galerie\galerie\obj\Debug\galerie.csproj.CoreCompileInputs.cache
+F:\galerie\galerie\obj\Debug\galerie.exe
+F:\galerie\galerie\obj\Debug\galerie.pdb
